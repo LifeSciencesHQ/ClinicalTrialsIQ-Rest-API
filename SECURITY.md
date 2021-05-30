@@ -1,5 +1,5 @@
-## Security
+# Security
 
-If you discover a security issue in this repo, please open an issue.
+## Reporting a Vulnerability
 
-Thanks for helping make the LifeSciencesIQ projects safe for everyone.
+If you discover a potential security issue in this project we ask that you notify LifeSciencesIQ directly via email to security@LifeSciencesIQ.com. Please do **not** create a public GitHub issue.
